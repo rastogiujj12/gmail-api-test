@@ -1,0 +1,5 @@
+#credentials for each user 
+*.pickle
+
+#gmail api credentials
+credentials.json
